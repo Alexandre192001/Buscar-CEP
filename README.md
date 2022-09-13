@@ -11,5 +11,5 @@
 <h2>⚜️Descrição⚜️</h2>
 <p>Projeto desenvolvido para pesquisas de CEP, em que nele é mostrado Localidade, DDD, UF e o CEP digitado. </p>
 <hr>
-LINK: 
+LINK: https://pesquisar-cep-alexandre.netlify.app/
 <hr>
