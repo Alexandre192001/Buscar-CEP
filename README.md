@@ -9,7 +9,7 @@
 </div>
 <hr>
 <h2>⚜️Descrição⚜️</h2>
-<p>Projeto desenvolvido para pesquisas de CEP, em que nele é mostrado Localidade, DDD, UF e o CEP digitado. </p>
+<p>Projeto desenvolvido para pesquisas de CEP, em que nele é mostrado Localidade, DDD, UF e o CEP digitado. Para esse projeto utilizei a API via cep </p>
 <hr>
 LINK: https://pesquisar-cep-alexandre.netlify.app/
 <hr>
