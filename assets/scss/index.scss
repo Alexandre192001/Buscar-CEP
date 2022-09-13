@@ -46,6 +46,13 @@
     align-items: center;
     gap: 1rem;
     justify-items: center;
+
+    .container-info-cep{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 1rem;
+    }
   }
 }
 

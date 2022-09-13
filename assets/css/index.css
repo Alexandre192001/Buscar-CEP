@@ -45,6 +45,12 @@
   gap: 1rem;
   justify-items: center;
 }
+.sessao-main .container-info-cep-wrapper .container-info-cep {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
 
 @media (max-width: 367px) {
   .sessao-header .container-cep {
