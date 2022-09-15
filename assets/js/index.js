@@ -2,15 +2,6 @@
 
 const btnCep = document.querySelector(".btn")
 
-class ResponseCep {
-    constructor(cep, localidade, cidade, ddd) {
-        this.cep = cep
-        this.localidade = localidade
-        this.cidade = cidade
-        this.add = ddd
-    }
-}
-
 btnCep.addEventListener("click", async () => {
     let CEP = document.querySelector(".input-cep").value
 
