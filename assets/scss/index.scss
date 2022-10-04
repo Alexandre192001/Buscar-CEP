@@ -49,9 +49,14 @@
 
     .container-info-cep{
       display: flex;
+      margin: 1rem;
       align-items: center;
       justify-content: center;
       gap: 1rem;
+      background-color:#044;
+      width:80%;
+      border-radius: 1rem;
+      box-shadow: 1px 1px 1rem #000;
     }
   }
 }
