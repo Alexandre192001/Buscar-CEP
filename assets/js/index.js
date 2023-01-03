@@ -5,7 +5,7 @@ const btnCep = document.querySelector(".btn")
 btnCep.addEventListener("click", async () => {
     let CEP = document.querySelector(".input-cep").value
 
-    if (CEP === "" || CEP.length < 8 || typeof CEP === "undefined") {
+    if (CEP === "" || CEP.length < 8 ||  typeof CEP === "undefined") {
         alert("Preencha o campo com um valor valido")
     } else {
 
